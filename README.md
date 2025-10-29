@@ -4,13 +4,13 @@
 
 ## About Me 🚀
 
-I'm a passionate **[Software Developer]** with experience in **[HTML5, CSS, REACT.JS, C#, JavaScript]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Software Developer** with experience in **HTML5, CSS, REACT.JS, C#, JavaScript**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[MongoDB]**
-- 🔭 Working on: **[A side project with C#. Details to come soon...]**
-- 🌍 Languages: **[JavaScript, REACT.JS, C#]**
-- 📫 How to reach me: **[ebifaugo@gmail.com]**
-- ⚡ Fun fact: **[Hmm, I'd give this one a good thought😁😉]**
+- 🌱 Currently learning: **MongoDB**
+- 🔭 Working on: **A side project with C#. Details to come soon...**
+- 🌍 Languages: **JavaScript, REACT.JS, C#**
+- 📫 How to reach me: **ebifaugo@gmail.com**
+- ⚡ Fun fact: **Hmm, I'd give this one a good thought😁😉**
 
 ## My Skills 🧠
 
